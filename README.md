@@ -5,7 +5,7 @@
   2> open this repo folder using terminal
   3> run this command
 
-####node createTestData.js <folder-name>/
+####node createTestData.js `<folder-name>`/
 
 
-The output will be <folder-name>.json
+The output will be `<folder-name>`.json
